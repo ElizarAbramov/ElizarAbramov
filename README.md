@@ -19,7 +19,7 @@
 
 - Жизненный цикл разработки ПО. Гибкие методологии разработки ПО [1](1)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: https://t.me/elopompei </h3>
 <p align="left">
 </p>
 
