@@ -3,6 +3,7 @@
 
 👨‍💻 Все мои проекты Вы можете найти [здесь](https://github.com/ElizarAbramov?tab=repositories)</p>
 💾 Мой [Дипломный проект](https://github.com/ElizarAbramov/my-project/tree/master), где были применены следующие инструменты и навыки: написание чек-листов, написание тест-кейсов, ООП, Git, Android Studio, Java, Gradle, Allure, Kotlin, Espresso, написание автотестов, обнаружение багов. </p>
+📄 Мое [Резюме](https://kemerovo.hh.ru/resume/ed0983bfff067db7640039ed1f326b636e5356)</p>
 ✉️ Вы можете связаться со мной: nezha2077@mail.ru,    <a href="https://t.me/elpompei" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" width="32" height="32" alt="Telegram" />
   </a>
